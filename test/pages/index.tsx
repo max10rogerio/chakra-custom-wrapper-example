@@ -1,4 +1,4 @@
-import { ChakraButton, ChakraButton2 } from "chakra-custons";
+import { ChakraButton, ChakraButton2 } from "chakra-custom";
 
 export default function Home() {
   return (

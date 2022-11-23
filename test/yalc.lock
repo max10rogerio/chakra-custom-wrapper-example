@@ -1,10 +1,10 @@
 {
   "version": "v1",
   "packages": {
-    "chakra-custons": {
+    "chakra-custom": {
       "signature": "705611e5703895a1f33bcaa70a10023c",
       "file": true,
-      "replaced": "file:../chakra-custons"
+      "replaced": "file:../chakra-custom"
     }
   }
 }
